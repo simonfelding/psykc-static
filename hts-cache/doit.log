@@ -1,0 +1,8 @@
+-qiC2t%Pns0u0%s%uN100%I0p3DaK0c8H0%kf2%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://psykologisk-center.dk -O1 "C:\Users\ungar\Desktop\psykc-static\psykologiskcenter" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Thu, 22 Apr 2021 20:05:24, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

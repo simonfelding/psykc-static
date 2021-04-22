@@ -1,0 +1,161 @@
+﻿/*
+Theme Name: Psykologisk Center
+Description: Psykologisk Center.
+Version: 1.0
+Author: Simon Felding
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family : Verdana;
+	margin : 0;
+	padding : 0;
+	font-size : 11px;
+	color: black;
+	text-decoration : none;
+	background-color : #F8F4E9;
+}
+
+}
+
+img.thumb {
+	border-width : 0;
+}
+img {
+	border : 0px #F8F4E9;
+}
+a {
+	color: #713D04;
+}
+a.post-edit-link {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+li.menu-item {
+word-wrap: normal;
+}
+
+#nav, #nav ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+        z-index: 1000; 
+}
+#nav a {
+	display: block; /*width: 70px;
+?? */;
+	text-decoration: none;
+	padding: 13px;
+	font : normal normal normal 11px/15px Verdana;
+	/* white-space: nowrap; */
+}
+#nav li {
+	float: left;
+	/*width: 70px;
+	border : 1px solid red;*/
+	 
+}
+#nav li a {
+	color: #996600;
+	letter-spacing: -1px;
+}
+
+ul#nav a {
+	font-weight: bold;
+}
+
+#nav ul li a {
+	font-weight: normal;
+}
+
+#nav li a:hover {
+	/*background-color: #713D04;
+	color: #F8F4E9;*/
+	background-position : 4px;
+	background-repeat : no-repeat;
+}
+#nav li ul {
+	position: absolute;
+	width: 230px;
+	left: -999em;
+	border-bottom : 1px solid #713D04;
+	border-left : 1px solid #713D04;
+	border-right : 1px solid #713D04;
+	border-top : 1px solid #713D04;
+}
+#nav li ul a {
+	/*style for all*/
+	background-color: #F8F4E9;
+	color: #713D04;
+	padding: 1px 22px 2px 18px;
+	width: 190px;
+	line-height: 2em;
+}
+* html #nav li ul a {
+	/*style for IE*/
+	width: 230px;
+}
+#nav li ul a:hover {
+	background-color: #713D04;
+	color: #F8F4E9;
+}
+#nav li:hover ul {
+	left: auto;
+}
+#nav li:hover ul, #nav li.sfhover ul {
+	left: auto;
+}
+#frame {
+	width : 750px;
+	margin-right : auto;
+	margin-top : 0;
+	padding : 0;
+	text-align : left;
+}
+#contenttop {
+	clear : both;
+	padding : 0;
+	width: 600px;
+	margin-left: 50px;
+/* margin-left: 150px; */
+	z-index: 3;
+}
+#tom {
+	clear : both;
+	padding : 0;
+	width: 420px;
+	margin-left: 330px;
+	z-index: 2;
+}
+.style2 {
+	width: 160px;
+	text-align: right;
+	font-weight: bold;
+	font-size: small;
+	color: #996600;
+	font-family: Arial;
+	letter-spacing: 1pt;
+}
+.style3 {
+	text-align: right;
+	font-size: 11px;
+	color: #996600;
+	font-family: Arial;
+	letter-spacing: normal;
+}
+.style4 {
+	list-style-image: url('images/punkt.gif'); margin-left:15px;
+}
+
+.hidden {
+    display: none;
+}
+
+#listeungeflygtninge {
+	padding-left: 10px;
+}

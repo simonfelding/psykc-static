@@ -1,0 +1,69 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Apr 2021 20:05:24 at http://psykologisk-center.dk +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qiC2t%Pns0u0%s%uN100%I0p3DaK0c8H0%kf2%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://psykologisk-center.dk -O1 "C:\Users\ungar\Desktop\psykc-static\psykologiskcenter" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:05:26	Warning: 	Found for psykologisk-center.dk/favicon.ico
+20:05:26	Warning: 	Warning moved treated for psykologisk-center.dk/favicon.ico (real one is psykologisk-center.dk/wordpress/wp-includes/images/w-logo-blue-white-bg.png)
+20:05:42	Warning: 	Moved Permanently for s.w.org/
+20:05:42	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+20:05:44	Warning: 	Moved Permanently for psykologisk-center.dk/metoder
+20:05:44	Warning: 	File has moved from psykologisk-center.dk/metoder to http://psykologisk-center.dk/metoder/
+20:05:44	Error: 	Unable to save file C:/Users/ungar/Desktop/psykc-static/psykologiskcenter/metoder: Permission denied
+20:05:44	Warning: 	Moved Permanently for psykologisk-center.dk/generelt
+20:05:44	Warning: 	File has moved from psykologisk-center.dk/generelt to http://psykologisk-center.dk/generelt/
+20:05:45	Error: 	Unable to save file C:/Users/ungar/Desktop/psykc-static/psykologiskcenter/generelt: Permission denied
+20:05:46	Warning: 	Moved Permanently for psykologisk-center.dk/tilskud-til-betaling-af-psykologsamtaler
+20:05:46	Warning: 	File has moved from psykologisk-center.dk/tilskud-til-betaling-af-psykologsamtaler to http://psykologisk-center.dk/tilskud-til-betaling-af-psykologsamtaler/
+20:05:46	Error: 	Unable to save file C:/Users/ungar/Desktop/psykc-static/psykologiskcenter/tilskud-til-betaling-af-psykologsamtaler: Permission denied
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=506
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=506 to http://psykologisk-center.dk/tilskud-til-betaling-af-psykologsamtaler/
+20:06:08	Warning: 	Retry after error -4 (No data (connection closed)) at link psykologisk-center.dk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpsykologisk-center.dk%2Ftilskud-til-betaling-af-psykologsamtaler%2F (from psykologisk-center.dk/tilskud-til-betaling-af-psykologsamtaler/)
+20:06:08	Warning: 	Retry after error -4 (No data (connection closed)) at link psykologisk-center.dk/wp-json/wp/v2/pages/58 (from psykologisk-center.dk/medarbejdere/)
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=58
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=58 to http://psykologisk-center.dk/medarbejdere/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=18
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=18 to http://psykologisk-center.dk/praktisk-info/
+20:06:08	Warning: 	Retry after error -5 (Unable to get server's address: Værten kendes ikke. ) at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from psykologisk-center.dk/praktisk-info/)
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/artikler
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/artikler to http://psykologisk-center.dk/artikler/
+20:06:08	Error: 	Unable to save file C:/Users/ungar/Desktop/psykc-static/psykologiskcenter/artikler: Permission denied
+20:06:08	Warning: 	Retry after error -4 (No data (connection closed)) at link psykologisk-center.dk/?p=74 (from psykologisk-center.dk/metoder/)
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=79
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=79 to http://psykologisk-center.dk/samarbejde/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=72
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=72 to http://psykologisk-center.dk/generelt/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=38
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=38 to http://psykologisk-center.dk/kriminelle-og-antisociale-unge/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=48
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=48 to http://psykologisk-center.dk/personlighedsforstyrrelser/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=150
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=150 to http://psykologisk-center.dk/unge-fra-familier-med-rusmiddelmisbrug/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=36
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=36 to http://psykologisk-center.dk/individuel-psykoterapi/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=33
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=33 to http://psykologisk-center.dk/familiebehandling-et-alternativ-til-anbringelse/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=90
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=90 to http://psykologisk-center.dk/unge-med-flygtninge-eller-invandrerbaggrund/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=64
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=64 to http://psykologisk-center.dk/psykologisk-undersoegelse/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=81
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=81 to http://psykologisk-center.dk/supervision/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=84
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=84 to http://psykologisk-center.dk/undervisning-og-kurser/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=105
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=105 to http://psykologisk-center.dk/visitation/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=346
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=346 to http://psykologisk-center.dk/betaling/
+20:06:08	Warning: 	Moved Permanently for psykologisk-center.dk/?p=119
+20:06:08	Warning: 	File has moved from psykologisk-center.dk/?p=119 to http://psykologisk-center.dk/artikler/
+20:06:09	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from psykologisk-center.dk/praktisk-info/)
+20:06:10	Warning: 	Moved Permanently for psykologisk-center.dk/?p=74
+20:06:10	Warning: 	File has moved from psykologisk-center.dk/?p=74 to http://psykologisk-center.dk/metoder/
+20:06:10	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from psykologisk-center.dk/praktisk-info/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 147 links scanned, 117 files written (17745255 bytes overall), 54 files updated [589816 bytes received at 12822 bytes/sec], 3.3 requests per connection
+(5 errors, 53 warnings, 0 messages)
